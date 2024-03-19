@@ -10,7 +10,7 @@
                 <label>Brand</label>
                 <input type="text" name="brand" id="brand" class="form-control"></br>
                 <label>License Plate</label>
-                <input type="number" name="license-plate" id="license-plate" class="form-control"></br>
+                <input type="number" name="license_plate" id="license_plate" class="form-control"></br>
                 <label>Year</label>
                 <input type="number" name="year" id="year" class="form-control"></br>
             </form>
